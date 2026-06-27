@@ -21,15 +21,12 @@ Highlights:
 
 <img style="width: 100%; max-width: 900px;" src="assets/ornith_397b_eval.png" alt="Ornith 397B Benchmark Results" title="Ornith 397B Benchmark Results">
 
-## Ornith 1.0 
 
-Ornith-1.0 is released as a family of checkpoints — a **dense** 9B model and two **Mixture-of-Experts** models (35B, 397B), all post-trained for agentic coding, and each published in several precision / format variants (bf16, FP8, GGUF). This card covers the whole family: the benchmarks below compare every size, and the serving and usage recipes apply to all of them.
+## Benchmarks
 
-### Benchmarks
+Each model is evaluated against its size-appropriate baselines. All three use the same harnesses and decoding setup (see the notes under the tables).
 
-Each Ornith-1.0 model is evaluated against its size-appropriate baselines. All three use the same harnesses and decoding setup (see the notes under the tables).
-
-#### Ornith-1.0-9B
+### Ornith-1.0-9B
 
 <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;width:100%;margin:0 auto;padding:16px 0">
 <table style="width:100%;table-layout:fixed;border-collapse:collapse;font-size:13px">
@@ -57,7 +54,7 @@ Each Ornith-1.0 model is evaluated against its size-appropriate baselines. All t
 </table>
 </div>
 
-#### Ornith-1.0-35B
+### Ornith-1.0-35B
 
 <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;width:100%;margin:0 auto;padding:16px 0">
 <table style="width:100%;table-layout:fixed;border-collapse:collapse;font-size:13px">
@@ -85,7 +82,7 @@ Each Ornith-1.0 model is evaluated against its size-appropriate baselines. All t
 </table>
 </div>
 
-#### Ornith-1.0-397B
+### Ornith-1.0-397B
 
 <div style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;width:100%;margin:0 auto;padding:16px 0">
 <table style="width:100%;table-layout:fixed;border-collapse:collapse;font-size:13px">
