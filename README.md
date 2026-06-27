@@ -1,19 +1,17 @@
-# Ornith-1
 
 <div align="center">
 <img src=assets/ornith_logo.png width="65%"/>
 </div>
-
 <div align="center">
 
 [![Ornith Blog](https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B)](https://deep-reinforce.com/ornith.html)
 
 </div>
 
-# Introduction
+# Ornith-1
 
 
-Aloha! 🌺 Today, we are releasing Ornith-1.0, a self-improving family of open-source models for agentic coding. 
+Aloha! 🌺 Ornith-1.0 is a self-improving family of open-source models for agentic coding. 
 
 Highlights: 
 
